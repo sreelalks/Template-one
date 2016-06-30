@@ -1,0 +1,45 @@
+*{margin:0;padding:0}
+a{text-decoration:none!important;}
+ul,li{list-style:none;}
+.clearfix{clear:both;}
+html,body{font-family: 'Roboto', sans-serif; font-size:13px;}
+
+.m-0 { margin: 0 !important; }
+.m-t-10 { margin-top: 10px !important; }
+.m-t-20 { margin-top: 20px !important; }
+.m-t-25 { margin-top: 25px !important; }
+
+.m-r-10 { margin-right: 10px !important; }
+.m-r-20 { margin-right: 20px !important; }
+.m-r-25 { margin-right: 25px !important; }
+
+.m-b-10 { margin-bottom: 10px !important; }
+.m-b-20 { margin-bottom: 20px !important; }
+.m-b-25{ margin-bottom: 25px !important; }
+
+.m-l-10 { margin-left: 10px !important; }
+.m-l-20 { margin-left: 20px !important; }
+.m-l-25 { margin-left: 25px !important; }
+
+.f-12 { font-size: 12px !important; }
+.f-14 { font-size: 14px !important; }
+.f-16 { font-size: 16px !important; }
+.f-18 { font-size: 18px !important; }
+.f-20 { font-size: 20px !important; }
+.f-26 { font-size: 26px !important; }
+.f-30 { font-size: 30px !important; }
+.f-36 { font-size: 36px !important; }
+
+
+.main-head { background: #E1E1E1; height: 50px; position: fixed; left: 0; right: 0; top: 0; }
+.side-nav { background: #F6F6F6; position: fixed; left: 0; top: 50px; bottom: 0; width: 250px; overflow-x: hidden; overflow-y: auto; }
+.page-container { margin: 70px 0 0 270px; }
+.main-head .navbar-nav > li a { color: #848383; }
+.menu-nav { max-width: 100%; }
+.menu-nav  li { display: block; }
+.menu-nav  li a { display: block; padding: 10px; color: #333; border-bottom: 1px solid rgba(51, 51, 51, 0.05); }
+.menu-nav  li a:hover { background-color: #ddd; }
+.menu-nav li ul { background: rgba(204, 204, 204, 0.27); display: block; }
+.footer { background-color: #F9F9F9; padding: 10px 0; }
+
+
